@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+
+# Logs
+*.log
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
